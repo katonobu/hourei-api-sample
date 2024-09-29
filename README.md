@@ -1,4 +1,6 @@
 # 法令 API プロトタイプ利用アプリサンプル
+## 自出
+[法制事務デジタル化・法令等データ利活用促進](https://www.digital.go.jp/policies/legal-practice)の[公開機能（ZIP／3,782KB）](https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/7f49ac76-91f1-44ba-91bd-2114973fcc61/b75ba408/20240524_policies_legal-practice_outline_03.zip)を解凍した中に含まれる、`法令APIプロトタイプ利用サンプル.zip`を解凍したものが起点。
 
 ## 概要
 
